@@ -1,4 +1,4 @@
-require("yaml")
+require("YAML")
 
 #Allows easy, single command synchronization of folders across multiple machines using git.
 #Note that this is inherently a simplification of git's power and is really only intended for 
