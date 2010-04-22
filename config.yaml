@@ -1,0 +1,6 @@
+folders: #These are my folders you can use any git versioned folders you like
+ - /usr/local/Replicate.rb
+# - /usr/local/GitSynch
+ - /home/rob/.skeinforge
+ - /home/rob/parts
+
